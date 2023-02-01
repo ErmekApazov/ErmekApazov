@@ -1,5 +1,5 @@
 
-![MasterHead](https://miro.medium.com/max/1400/1*y93jZzftu0aJQyc0SjEmTg.gif)
+![MasterHead]()
 
 
 
